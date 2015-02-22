@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SwiftRestExample
 //
-//  Created by SOA on 1/28/15.
+//  Created by Efrén Aguilar on 1/28/15.
 //  Copyright (c) 2015 Baware. All rights reserved.
 //
 
